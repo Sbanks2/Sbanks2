@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbanks2&label=Profile%20views&color=0e75b6&style=flat" alt="sbanks2" /> </p>
 
-- 🌱 I’m currently working through **Google Advanced Data Analytics Professional Certificate**
+- 🌱 I’m currently working through the **Google Advanced Data Analytics Professional Certificate** on Coursera
 
 - 📫 How to reach me **sbanks0525@gmail.com**
 
