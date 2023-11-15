@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stephen Banks</h1>
 <h3 align="center">A self-learner switching careers from a financial analyst into data analysis, and then into data science down the road.</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/Sbanks2/Sbanks2/blob/main/Data_Analysis.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbanks2&label=Profile%20views&color=0e75b6&style=flat" alt="sbanks2" /> </p>
 
