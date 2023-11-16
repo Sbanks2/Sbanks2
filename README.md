@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Sbanks2/Sbanks2/blob/main/data_data_everywhere_v2.jpg)
 <h1 align="center">Hi 👋, I'm Stephen Banks</h1>
 <h3 align="center">A self-learner switching careers from a financial analyst into data analysis, and then into data science down the road.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Sbanks2/Sbanks2/blob/main/Data_Analysis.png">
